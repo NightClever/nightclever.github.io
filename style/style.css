@@ -1,6 +1,5 @@
 html {
-    background-image: image("/image/фон.jpg");
-    color: aliceblue;
+    background-color: rgb(59, 59, 59);
 }
 table{
 	font: normal small-caps bold 12px "stylesheet";
